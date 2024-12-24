@@ -1,0 +1,5 @@
+! name: Path of Exile Wikis
+! description: Remove unwanted wikis
+! public: false
+! author: Edward Sayers
+$discard,site=fextralife.com
